@@ -1,3 +1,4 @@
+# BIDS/fMRIprep Tutorial for the Neuroscience and Cognitive Science Methods Seminar at UMD
 
 Here are all the materials for the fMRIprep tutorial, including materials for: 1) converting dicoms to bids format; 2) running fmriprep on the converted data; 3) running post-prep to get everything to an afni-ready state for modeling! Here is a quick description of the files: 
 
